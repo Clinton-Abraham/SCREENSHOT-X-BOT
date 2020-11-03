@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+motor
+dnspython
+async-timeout
+aiohttp
