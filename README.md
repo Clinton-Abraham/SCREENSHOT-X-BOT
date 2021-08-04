@@ -1,4 +1,4 @@
-# [ScreenShot Bot](https://tx.me/ScreenShotTGBot)
+# WARNING ⚠️ HEROKU BAN 
 > Telegram Bot For Screenshot Generation.
 
 ## Description
